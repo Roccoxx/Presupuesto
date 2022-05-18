@@ -1,5 +1,9 @@
 # PresupuestoApp
 
+Aplicativo simple hecho en Angular para agregar ingresos y egresos
+
+![image](https://user-images.githubusercontent.com/53314419/169147721-0a450891-a7df-4bf9-91ad-26d96f921d7c.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
